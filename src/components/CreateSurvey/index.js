@@ -3,7 +3,7 @@ import DisplayAnswer from '../DisplayAnswer';
 import Multiselect from '../Multiselect';
 import Options from '../Options'
 import Singleselect from '../Singleselect';
-import './index.css';
+import './index.js';
 const CreateSurvey = () => {
 
     const [selectOption,setSelectedOption] = useState();
